@@ -31,16 +31,16 @@ I'm a passionate developer bridging the gap between hardware and software. I lov
 
 ### 🌐 Explore My Work
 
-- 🚀 **[Portfolio Website](https://patra-om.github.io)** - Experience my "Cybernetic" portfolio with immersive animations.
-- 📬 **[LinkedIn](https://linkedin.com/in/patraom)** - Let's connect and build the future together.
+- 🚀 **[Portfolio Website](https://omptra.github.io)** - Experience my "Cybernetic" portfolio with immersive animations.
+- 📬 **[LinkedIn](https://linkedin.com/in/omptra)** - Let's connect and build the future together.
 
 ---
 
 ### 📊 GitHub Analysis
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=patra-om&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patra-om&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omptra&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omptra&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <!-- Cybernetic Footer -->
