@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om Patra
 
-### 🤖 Robotics & AI Student | B.E. @ [University Name]
+### 🤖 Robotics & AI Student | B.E. @ [BTI]
 
 I'm a passionate developer bridging the gap between hardware and software. I love building intelligent systems, deploying local LLMs, and creating immersive web experiences.
 
