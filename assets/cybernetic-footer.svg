@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220" role="img" aria-labelledby="title desc">
+  <title id="title">Om Patra cybernetic system status</title>
+  <desc id="desc">An animated terminal interface showing the robotics and AI system online.</desc>
+  <defs>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop stop-color="#00ff9d" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00ff9d" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="220" rx="14" fill="#05070a"/>
+  <rect x="8" y="8" width="684" height="204" rx="10" fill="none" stroke="#00ff9d" stroke-width="1" opacity=".45">
+    <animate attributeName="opacity" values=".25;.7;.25" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="28" y="35" fill="#00e5ff" font-family="monospace" font-size="13">OM_PATRA // CYBERNETIC_CORE</text>
+  <line x1="28" y1="48" x2="672" y2="48" stroke="#00ff9d" opacity=".25"/>
+  <g fill="#00ff9d" font-family="monospace" font-size="15">
+    <text x="30" y="78">&gt; INITIALIZING SYSTEM...<animate attributeName="opacity" values="0;1;1;1;0" dur="4s" repeatCount="indefinite"/></text>
+    <text x="30" y="108">&gt; SCANNING REPOSITORIES... [OK]<animate attributeName="opacity" values="0;0;1;1;1;0" dur="4s" repeatCount="indefinite"/></text>
+    <text x="30" y="138">&gt; CONNECTING ROBOTICS CORE... [OK]<animate attributeName="opacity" values="0;0;0;1;1;0" dur="4s" repeatCount="indefinite"/></text>
+    <text x="30" y="168">&gt; DEPLOYING AI SYSTEMS... [ACTIVE]<animate attributeName="opacity" values="0;0;0;0;1;1" dur="4s" repeatCount="indefinite"/></text>
+    <text x="30" y="198">&gt; SYSTEM STATUS:</text>
+  </g>
+  <text x="190" y="198" fill="#00e5ff" font-family="monospace" font-size="15">ONLINE<animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></text>
+  <rect x="15" y="10" width="670" height="2" fill="url(#scan)" opacity=".75">
+    <animate attributeName="y" values="10;208;10" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
